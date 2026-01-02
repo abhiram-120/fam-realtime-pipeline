@@ -32,3 +32,5 @@ This project implements a Lambda-style architecture to separate "Hot" and "Cold"
     ```bash
     streamlit run dashboard.py
     ```
+
+    demo video walktrough 90sec-https://drive.google.com/file/d/1El0Y8YSbTtk4tyfU_pjo0kHwDGfYMj9w/view?usp=sharing
